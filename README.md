@@ -6,7 +6,7 @@
 
 Squid game red light, green light gamemode.
 
-This plugin do not prove the game setting so you have to do that yourself.
+This plugin do not prove the game setting, so you have to do that yourself.
 
 
 
