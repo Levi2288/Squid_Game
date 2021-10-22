@@ -35,16 +35,28 @@ Change the cvars if you want to.
 
 Admin CMDs:
 
+
 sm_squidstop (Stop Game can be buggy)
+
 sm_squidstart (Start Game can be buggy)
+
 sm_sleave (Leave game)
+
 sm_sjoin (Join game)
 
+
 Player CMDs:
+
+
 sm_squidsettings (Turn on/off sounds & effects)
+
 sm_ss (Turn on/off sounds & effects)
+
 sm_squidinfo (Print plugin info)
+
 sm_si (Print plugin info)
+
+
 
 # Cvars
 ```
