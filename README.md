@@ -14,7 +14,7 @@ This plugin do not prove the game setting so you have to do that yourself.
 
 Install [Dod Zones]
 
-Drop the smx into addons/sourcemod/plugins and the sound files to sound/
+Drop the smx into ```addons/sourcemod/plugins``` and the sound files to ```sound/```
 
 Restart server
 
@@ -25,7 +25,7 @@ Install [Zeph Store] or [kartoss CaseOpening] for reward support.
 
 
 # Setup
-Make a Zone with [Dod Zones] named "SquidWin"
+Make a Zone with [Dod Zones] named ```SquidWin```
 
 Change the cvars if you want to.
 
@@ -47,7 +47,7 @@ sm_squidinfo (Print plugin info)
 sm_si (Print plugin info)
 
 # Cvars
-
+```
 sm_squid_enable (Enable/Disable plugin)
 sm_squid_reward (Reward mode 0 = disable | 1 = [Zeph Store] credit | 2 = [kartoss CaseOpening] cash)
 sm_squid_disable_dmg (Enable/Disable anti damage)
@@ -57,6 +57,7 @@ sm_squid_credit_max (Max credit player can win "Only enabled if sm_squid_reward 
 
 sm_squid_case_min (Min case cash player can win "Only enabled if sm_squid_reward = 2")
 sm_squid_case_max (Max case cash player can win "Only enabled if sm_squid_reward = 2")
+```
 
 # Todo
 
