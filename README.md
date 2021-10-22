@@ -9,7 +9,9 @@ This plugin do not prove the game setting so you have to do that yourself.
 
 # Install
 Install Dod zones
+
 Drop the smx into addons/sourcemod/plugins and the sound files to sound/
+
 Restart server
 
 
