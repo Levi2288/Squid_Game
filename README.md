@@ -1,4 +1,4 @@
-# Squid_Game
+# Squid_Game BETA
 
 [Dod Zones]: https://forums.alliedmods.net/showthread.php?p=1992342
 [Zeph Store]: https://forums.alliedmods.net/showthread.php?t=276677
