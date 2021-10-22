@@ -33,7 +33,7 @@ Change the cvars if you want to.
 
 # Commands
 
-Admin CMDs:
+```Admin CMDs```
 
 
 sm_squidstop (Stop Game can be buggy)
@@ -45,7 +45,7 @@ sm_sleave (Leave game)
 sm_sjoin (Join game)
 
 
-Player CMDs:
+```Player CMDs```
 
 
 sm_squidsettings (Turn on/off sounds & effects)
