@@ -74,4 +74,4 @@ sm_squid_case_max (Max case cash player can win "Only enabled if sm_squid_reward
 
 # Todo
 
-Maybe a help menu how to play or idk
+Maybe a help menu about how to play or idk
