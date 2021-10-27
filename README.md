@@ -1,4 +1,4 @@
-# Squid_Game
+# Squid_Game BETA
 
 [Dod Zones]: https://forums.alliedmods.net/showthread.php?p=1992342
 [Zeph Store]: https://forums.alliedmods.net/showthread.php?t=276677
@@ -63,6 +63,7 @@ sm_si (Print plugin info)
 sm_squid_enable (Enable/Disable plugin)
 sm_squid_reward (Reward mode 0 = disable | 1 = [Zeph Store] credit | 2 = [kartoss CaseOpening] cash)
 sm_squid_disable_dmg (Enable/Disable anti damage)
+sm_squid_warmuptime (Warmup time "recommended: 30")
 
 sm_squid_credit_min (Min credit player can win "Only enabled if sm_squid_reward = 1")
 sm_squid_credit_max (Max credit player can win "Only enabled if sm_squid_reward = 1")
