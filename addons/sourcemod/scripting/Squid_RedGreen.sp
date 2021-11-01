@@ -710,7 +710,7 @@ public void RewardPlayer(int client, int rewardtype)
 			PrintToChat(client, "%s \x04You survived the round! Good job", Prefix);
 				
 		}
-		if(rewardtype == 1)
+		else if(rewardtype == 1)
 		{
 			int iCreditWon = GetRandomInt(GetConVarInt(sm_squid_credit_min), GetConVarInt(sm_squid_credit_max));
 			PrintHintText(client, "<span style='color:green;'>U survived the round! U won: %i credit</span>", iCreditWon);
